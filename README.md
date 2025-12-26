@@ -1,7 +1,5 @@
 # Bar Inventory & POS System (Beyond Bite -- Akropong Branch)
 
-# Bar Inventory & POS System (Professional Management Tool)
-
 ## Project Overview
 A high-performance, terminal-based Point of Sale (POS) and Inventory Management System designed for the hospitality industry. This project solves a common retail problem: Dual-Track Inventory Management. It allows a business to sell products by the unit (e.g., bottled beer) and by volume (e.g., spirit shots measured in milliliters) simultaneously, ensuring 100% stock accuracy.
 
