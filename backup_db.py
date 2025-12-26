@@ -5,8 +5,8 @@ from datetime import datetime
 def run_backup():
     # Configuration
     db_name = "bar_pos_system"
-    db_user = "root"
-    db_password = "PROjectREStK-7"
+    db_user = "your_username"
+    db_password = "your_password"
     
     # Create a 'backups' folder if it doesn't exist
     backup_folder = "backups"
