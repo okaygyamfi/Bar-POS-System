@@ -1,0 +1,6 @@
+config.ini
+backups/
+__pycache__/
+build/
+dist/
+*.spec
